@@ -1,6 +1,6 @@
 # Activity Tracker
 
-Activity Tracking App built with Meteor.
+Activity Tracking App built with Meteor. Forked from https://github.com/amazingBastard/activity-tracker
 
 Demo here: [withpulp.meteor.com](http://withpulp.meteor.com).
 
